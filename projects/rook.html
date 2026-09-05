@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Project — Ayden Le</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="buildbar">
+  <div class="wrap">
+    <div class="brand">ayden.le <span class="dot">//</span> game design</div>
+    <nav class="navlinks">
+      <a href="../index.html#work">work</a>
+      <a href="../index.html#about">about</a>
+      <a href="mailto:jordan@example.com">contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="projhero">
+  <div class="wrap">
+    <a class="back" href="../index.html#work">← all projects</a>
+    <div class="tagrow"><span class="tag" id="proj-tag"></span></div>
+    <h1 id="proj-title"></h1>
+    <p class="role" id="proj-role"></p>
+    <div class="ctaproj" id="proj-cta"></div>
+    <div class="statline" id="proj-stats"></div>
+  </div>
+</section>
+
+<section class="projbody">
+  <div class="wrap">
+    <div id="proj-body"></div>
+
+    <div class="projnav">
+      <a id="proj-prev" href="#"></a>
+      <a id="proj-next" href="#"></a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap" style="display:flex; justify-content:space-between; width:100%;">
+    <span>© 2026 Ayden Le</span>
+    <span><a href="mailto:aydenle37@gmail.com">aydenle37@gmail.com</a> · <a href="https://itch.io" target="_blank" rel="noopener">itch.io</a> · <a href="#" target="_blank" rel="noopener">linkedin</a></span>
+  </div>
+</footer>
+
+<script src="../assets/projects-data.js"></script>
+<script src="../assets/project-render.js"></script>
+<script>renderProjectPage("rook");</script>
+</body>
+</html>
