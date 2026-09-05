@@ -58,7 +58,7 @@ const PROJECT_DETAILS = {
       { k: "Time", v: "1 week" },
       { k: "Genre", v: "Arcade Shooter" },
     ],
-    links: { play: "https://itch.io", doc: "https://itch.io" },
+    links: { play: "https://aydenl3.github.io/Little-Rook/", doc: "https://itch.io" },
   },
 
   "court": {
@@ -113,6 +113,62 @@ const PROJECT_DETAILS = {
       { k: "Year", v: "2025" },
       { k: "Time", v: "2 Hours" },
       { k: "Genre", v: "Simple Game" },
+    ],
+    links: { play: "https://itch.io", doc: "https://itch.io" },
+  },
+
+  "wyld": {
+    sections: [
+      {
+        h: "Section 1",
+        body: `<p> Section 1 Text</p>`
+      },
+      {
+        h: "Section 2",
+        body: `<p> Section 2 Text</p>`
+      },
+      {
+        h: "Section 3",
+        body: `<p> Section 3 Text</p>`
+      },
+      {
+        h: "Section 4",
+        body:`<p> Section 4 Text</p>`
+      },
+    ],
+    stats: [
+      { k: "Role", v: "Lead Designer" },
+      { k: "Year", v: "2024-ONGOING" },
+      { k: "Time", v: "Ongoing" },
+      { k: "Genre", v: "Genre Here" },
+    ],
+    links: { play: "https://itch.io", doc: "https://itch.io" },
+  },
+
+  "chicken": {
+    sections: [
+      {
+        h: "Section 1",
+        body: `<p> Section 1 Text</p>`
+      },
+      {
+        h: "Section 2",
+        body: `<p> Section 2 Text</p>`
+      },
+      {
+        h: "Section 3",
+        body: `<p> Section 3 Text</p>`
+      },
+      {
+        h: "Section 4",
+        body:`<p> Section 4 Text</p>`
+      },
+    ],
+    stats: [
+      { k: "Role", v: "Sole Designer" },
+      { k: "Year", v: "2025" },
+      { k: "Time", v: "1 Day" },
+      { k: "Genre", v: "Sport" },
     ],
     links: { play: "https://itch.io", doc: "https://itch.io" },
   },

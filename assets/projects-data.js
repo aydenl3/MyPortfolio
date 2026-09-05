@@ -50,6 +50,28 @@ const PROJECTS = [
     playtesters: -1,
     duration: "2 hours",
   },
+  {
+    slug: "wyld",
+    title: "From Wyld",
+    tag: "ongoing",
+    tagLabel: "Ongoing",
+    role: "Lead Designer",
+    blurb: "Blurb Here",
+    year: "2024-ONGOING",
+    playtesters: -1,
+    duration: "Ongoing",
+  },
+  {
+    slug: "chicken",
+    title: "Climbing Chicken",
+    tag: "proto",
+    tagLabel: "Sport",
+    role: "Sole Designer",
+    blurb: "Blurb Here",
+    year: "2025",
+    playtesters: -1,
+    duration: "1 Day",
+  },
 ];
 
 // ====================================================
