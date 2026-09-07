@@ -52,10 +52,10 @@ const PROJECTS = [
   },
   {
     slug: "wyld",
-    title: "Keystone",
+    title: "Tapestry",
     tag: "ongoing",
     tagLabel: "TTRPG",
-    role: "Lead Designer",
+    role: "Lead Game Designer",
     blurb: "Blurb Here",
     year: "2024-ONGOING",
     playtesters: -1,

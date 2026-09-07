@@ -11,19 +11,24 @@ const PROJECT_DETAILS = {
         h: "Angel Boy",
         body: `<p> Angels and Demons VS Aliens! is an online Co-op Roguelike, that I worked on as my Capstone project at UCSC. As head designer, I was designing most of the mechanics and systems for this game, including Angel Boy and Demon Girl. Designing these characters was so much fun, and especially interesting and challenging was designing gameplay for Angel Boy.</p>`,
         img: "../assets/images/Cover.png",
-        caption: "Cover Art"
+        caption: "ADVA Cover Art by Blythe Chen"
+      },
+      {h: "Initial Designs",
+        body: `<p> Designing attacks in a vaccuum was difficult but exciting. Imagining the wide possibilities and exploring the freedom of a project with such an open theme was really interesting. We worked through lots of different ideas in these initial stages.</p>`,
+        img: "../assets/images/abilities.png",
+        caption: "Power Up Selection Screen in ADVA"
       },
       {
         h: "Rhythm",
         body: `<p> Angel Boy was pitched as a musically gifted but unenthusiastic prodigy. Naturally I thought it only fitting to explore the idea of using rhythm or timing-oriented attacks. Additionally, I wanted to explore a ranged attack character who didn't use projectiles or a very long ranged "Auto hit". My solution for this was Beat Rings, a mechanic I designed to encompass the feel of a rhythm game, and providing a unique ranged attack.</p>`,
         img: "../assets/images/AngelBoyDesigns.png",
-        caption: "Early Angel Boy Designs"
+        caption: "Early Angel Boy Designs by Blythe Chen"
       },
       {
         h: "Beat Rings",
-        body: `<p> Beat Rings are placed by the player by clicking, and retriggered by the player once the ring closes to deal damage. This allows unique set-up of attacks, and forces the player to plan their next moves. While it didn't embody the musical feel I wanted, it did have a unique gameplay style that was unorthodox and deeply interesting to the players who explored it.</p>`,
+        body: `<p> Beat Rings are placed by the player by clicking, and retriggered by the player once the ring closes to deal damage. This allows unique set-up of attacks, and forces the player to plan their next moves. While it didn't embody the musical feel I wanted, it did have a unique gameplay style that was unorthodox and deeply interesting to the players who explored it in our numerous playtests.</p>`,
         img: "../assets/images/ABinaction.gif",
-        caption: "Angel Boy Gameplay"
+        caption: "Angel Boy Gameplay in ADVA"
       },
       
     ],
@@ -39,29 +44,17 @@ const PROJECT_DETAILS = {
   "rook": {
     sections: [
       {
-        h: "Section 1",
-        body: `<p> Section 1 Text</p>`,
-        img: null,
-        caption: "Section 1"
+        h: "Crunch Time",
+        body: `<p> Little Rook's Revenge is a game I developed for a class assignment, where the goal was to create an arcade style game in under a week. Arcade shooter protagonists typically find themselves locked to a left-right plane, and I imagined a "little rook", unable to move up or down yet, as a perfect candidate. This game explores the chess theme in a new context.</p>`,
+        img: "../assets/images/littlerook2.png",
+        caption: "Little Rook's Revenge Cover Art"
       },
       {
-        h: "Section 2",
-        body: `<p> Section 2 Text</p>`,
-        img: null,
-        caption: "Section 2"
-      },
-      {
-        h: "Section 3",
-        body: `<p> Section 3 Text</p>`,
-        img: null,
-        caption: "Section 3"
-      },
-      {
-        h: "Section 4",
-        body: `<p> Section 4 Text</p>`,
-        img: null,
-        caption: "Section 4"
-      },
+        h: "Closing Thoughts",
+        body: `<p> While I liked the consistency to the chess theme inspiring this game, not every piece made a good or fun enemy. Pawns in this game particularly are annoying in their slow unpredictable movement, and the Queen's pattern is incredibly strong. I wish I had spent more time on getting feedback to adjusting these feelings before submitting this project.</p>`,
+        img: "../assets/images/bossfight2.gif",
+        caption: "Final Boss Fight in Little Rook's Revenge"
+      }
     ],
     stats: [
       { k: "Role", v: "Solo Developer and Designer" },
@@ -69,7 +62,7 @@ const PROJECT_DETAILS = {
       { k: "Time", v: "1 week" },
       { k: "Genre", v: "Arcade Shooter" },
     ],
-    links: { play: "https://itch.io", doc: "https://itch.io" },
+    links: { play: "https://aydenl3.github.io/Little-Rook/"},
   },
 
   "court": {
@@ -105,43 +98,37 @@ const PROJECT_DETAILS = {
       { k: "Time", v: "Ongoing" },
       { k: "Genre", v: "Social Deduction Party Experience" },
     ],
-    links: { play: "https://itch.io", doc: "https://itch.io" },
+    links: { doc: "https://docs.google.com/document/d/1wHqtCKb-RhSUPZ-p7CtE7KQpOi41Yll5lTNyDZeBROE/edit?usp=sharing" },
   },
 
   "stones": {
        sections: [
       {
-        h: "Section 1",
-        body: `<p> Section 1 Text</p>`,
-        img: null,
-        caption: "Section 1"
+        h: "No Hard Feelings",
+        body: `<p> Volley was a project intended as a unique memento to teammates I played with at UCSC. I wanted to make collectible cards, but didn't want the cards to have no game attached to them. So I faced unique challenges when making gameplay, as I had to figure out how to differentiate and highlight unique players and playstyles without attaching stats to them.</p>`,
+        img: "../assets/images/VBTCG5.png",
+        caption: "Example Card Designs"
       },
       {
-        h: "Section 2",
-        body: `<p> Section 2 Text</p>`,
-        img: null,
-        caption: "Section 2"
+        h: "Default Signatures",
+        body: `<p> Rather than give each player stats for each skill in volleyball, I instead gave each player combination of a unique passive ability, and a default signature move, which could be found in the common deck. (in most cases). This combination allowed me to represent a variety of personalities and playstyles without directly attributing each player to their ability, instead highlighting moves they used often, or were particularly good at.</p>`,
+        img: "../assets/images/VBTCG6.png",
+        caption: "Example Card Designs"
       },
       {
-        h: "Section 3",
-        body: `<p> Section 3 Text</p>`,
-        img: null,
-        caption: "Section 3"
-      },
-      {
-        h: "Section 4",
-        body: `<p> Section 4 Text</p>`,
-        img: null,
-        caption: "Section 4"
+        h: "Volleyball as a Card Game",
+        body: `<p> In addition, representing volleyball as a card game was a unique hurdle. The game is so flexible and unpredictable that it's really hard to encapsulate in a rulebound turn-based system. Despite this, I think I really well represented the sport, and I had a blast. Watching this go from numbers on a spreadsheet to physical cards in my hand was amazing. For this being my first forray into pixel art, I was really happy with the outcome.</p>`,
+        img: "../assets/images/TCGCards.jpg",
+        caption: "Finished Product"
       },
     ],
     stats: [
       { k: "Role", v: "Sole Game Designer" },
       { k: "Year", v: "2025" },
-      { k: "Time", v: "2 Hours" },
-      { k: "Genre", v: "Simple Game" },
+      { k: "Highlight", v: "Unique Constraints" },
+      { k: "Genre", v: "Trading Card Game" },
     ],
-    links: { play: "https://itch.io", doc: "https://itch.io" },
+    links: { doc: "https://docs.google.com/document/d/1yeaXNfUgUVn9_8h86Dm2WRb967NHnibGFESCn8XCJFk/edit?usp=sharing" },
   },
 
   "wyld": {
@@ -172,12 +159,12 @@ const PROJECT_DETAILS = {
       },
     ],
     stats: [
-      { k: "Role", v: "Lead Designer" },
+      { k: "Role", v: "Lead Game Designer" },
       { k: "Year", v: "2024-ONGOING" },
       { k: "Time", v: "Ongoing" },
       { k: "Genre", v: "Genre Here" },
     ],
-    links: { play: "https://itch.io", doc: "https://itch.io" },
+    links: { doc: "https://docs.google.com/document/d/1dTL6Bud7Ep2blhB1NsBsfeUTb6INao-TC30wuW0DOaU/edit?usp=sharing" },
   },
 
   "chicken": {
