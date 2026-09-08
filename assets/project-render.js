@@ -68,28 +68,28 @@ const PROJECT_DETAILS = {
   "court": {
        sections: [
       {
-        h: "Section 1",
-        body: `<p> Section 1 Text</p>`,
-        img: null,
-        caption: "Section 1"
+        h: "Just This Once",
+        body: `<p> Pecking Order is a blend between worker placement, social deduction and party game. It's unique in that it can only be played once. This game has been incredibly interesting to design, especially due to it's one-time playable nature, as this opens up a variety of mechanics I can explore, knowing that players are learning the game on the fly, and have no idea what's to come. One notable example of this is the hidden goal mechanic, players win the game by completing a thematic goal for their character, but have no idea what other player's goals are. This means players have legitimate reason to work together or betray each other, as goals are only sometimes directly opposed.</p>`,
+        img: "../assets/images/peckingOrder.jpg",
+        caption: "Cards for First Playtest"
       },
       {
-        h: "Section 2",
-        body: `<p> Section 2 Text</p>`,
-        img: null,
-        caption: "Section 2"
+        h: "Chancellors",
+        body: `<p> The highlight for me with this game is the Chancellor system. Villager cards are the game's most basic way of gaining resources, or taking actions. Villagers can be elected as Chancellors however, which removes them as options to gain resources, and instead has them automatically vote for or against policies proposed during the Policy phase of this game. During this phase, Players can change the rules of the very game their playing by proposing and passing policy.</p>`,
+        img: "../assets/images/pickpocket2.png",
+        caption: "Pickpocket card as Villager or Chancellor"
       },
       {
-        h: "Section 3",
-        body: `<p> Section 3 Text</p>`,
-        img: null,
-        caption: "Section 3"
+        h: "Chancellor Strategy",
+        body: `<p>  Chancellors are particularly interesting due to the flexibility of the mechanic. Chancellors must be voted in by players, so picking the correct villager can be difficult. Each villager votes for multiple things, making selecting villagers a combination of conceeding policies you don't care about, while trying to ensure the villager supports the ones you do. There can only be so many chancellors, so strategically removing chancellors to make room is also something players must consider. Additionally, a villager who is chancellor cannot be used as a villager, so clever players may elect chancellors to prevent players from using their villager actions.</p>`,
+        img: "../assets/images/chancellors.jpg",
+        caption: "Sample Chancellors"
       },
       {
-        h: "Section 4",
-        body: `<p> Section 4 Text</p>`,
-        img: null,
-        caption: "Section 4"
+        h: "Playtest Ready",
+        body: `<p> This game has come such a long way, it was exciting to run a playtest with strangers and see how it was recieved. It was incredibly divisive and tense, but also alot of fun. After seeing the planning, scheming, and fun players experienced while grappling with the mechanics, I knew we had to keep pushing to make this game more polished.</p>`,
+        img: "../assets/images/playtestready.jpg",
+        caption: "Game Setup at Playtest"
       },
     ],
     stats: [
@@ -106,13 +106,13 @@ const PROJECT_DETAILS = {
       {
         h: "No Hard Feelings",
         body: `<p> Volley was a project intended as a unique memento to teammates I played with at UCSC. I wanted to make collectible cards, but didn't want the cards to have no game attached to them. So I faced unique challenges when making gameplay, as I had to figure out how to differentiate and highlight unique players and playstyles without attaching stats to them.</p>`,
-        img: "../assets/images/VBTCG5.png",
+        img: "../assets/images/VBTCG7.png",
         caption: "Example Card Designs"
       },
       {
         h: "Default Signatures",
         body: `<p> Rather than give each player stats for each skill in volleyball, I instead gave each player combination of a unique passive ability, and a default signature move, which could be found in the common deck. (in most cases). This combination allowed me to represent a variety of personalities and playstyles without directly attributing each player to their ability, instead highlighting moves they used often, or were particularly good at.</p>`,
-        img: "../assets/images/VBTCG6.png",
+        img: "../assets/images/VBTCG8.png",
         caption: "Example Card Designs"
       },
       {
@@ -134,28 +134,16 @@ const PROJECT_DETAILS = {
   "wyld": {
     sections: [
       {
-        h: "Section 1",
-        body: `<p> Section 1 Text</p>`,
-        img: null,
-        caption: "Section 1"
+        h: "Anything Imaginable",
+        body: `<p> Tapestry is a TTRPG module that allows players to build any character they like. Anything from fiction, any playstyle they imagine. Tapestry does this not by offering an countless number of classes, traits and feats, but instead by offering a comprehensive system by which players could create their own classes, abilities, and designs. Tapestry seeks to be a creation tool designed to allow for modular creation of complex and creative characters.</p>`,
+        img: "../assets/images/machine16.jpg",
+        caption: "Concept art for Machine 16, a character I wanted to create with Tapestry."
       },
       {
-        h: "Section 2",
-        body: `<p> Section 2 Text</p>`,
-        img: null,
-        caption: "Section 2"
-      },
-      {
-        h: "Section 3",
-        body: `<p> Section 3 Text</p>`,
-        img: null,
-        caption: "Section 3"
-      },
-      {
-        h: "Section 4",
-        body: `<p> Section 4 Text</p>`,
-        img: null,
-        caption: "Section 4"
+        h: "From Flavor to Rules",
+        body: `<p> Tapestry takes the fantasy of playing a character, and helps a player represent that character in a turn-based combat system, using modular steps. Tapestry teaches budding designers common grammars and balancing used when designing systems, and allows an infinite variety of characters. To make Tapestry, I first made changes to simplify and neutralize flavored TTRPG rulesets, allowing for characters of any setting to be played. One of things I'm learning from this process is how important thematic is to a game. Trying to make something that can be played anywhere is challenging, as it forces very general rules. Additionally, creating a system that creates systems has been a very metacognitive process, which has been fun to explore.</p>`,
+        img: "../assets/images/16inaction.jpg",
+        caption: "Machine 16 represented through turn-based table-top gameplay"
       },
     ],
     stats: [
