@@ -135,9 +135,9 @@ const PROJECT_DETAILS = {
     sections: [
       {
         h: "Anything Imaginable",
-        body: `<p> Tapestry is a TTRPG module that allows players to build any character they like. Anything from fiction, any playstyle they imagine. Tapestry does this not by offering an countless number of classes, traits and feats, but instead by offering a comprehensive system by which players could create their own classes, abilities, and designs. Tapestry seeks to be a creation tool designed to allow for modular creation of complex and creative characters.</p>`,
+        body: `<p> Tapestry is a TTRPG module that allows players to build any character they like. Anything from fiction, any playstyle they imagine. Tapestry does this not by offering an countless number of classes, traits and feats, but instead by offering a comprehensive system by which players could create their own classes, abilities, and designs. Tapestry seeks to be a creation tool designed to allow for modular creation of complex and creative characters. Instead of a basic Robot class a TTRPG might offer, I can create my own system for representing a mushroom colony controlling a robot's husk.</p>`,
         img: "../assets/images/machine16.jpg",
-        caption: "Concept art for Machine 16, a character I wanted to create with Tapestry."
+        caption: "Concept art for Machine 16, a character created with Tapestry."
       },
       {
         h: "From Flavor to Rules",
