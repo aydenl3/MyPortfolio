@@ -18,16 +18,18 @@ function renderProjectGrid(){
   const host = document.getElementById("project-grid");
   if(!host) return;
   host.innerHTML = PROJECTS.map(p => `
-    <a class="card" href="projects/${p.slug}.html">
-      <div class="card-top">
-        <h3>${p.title}</h3>
-        <span class="tag ${p.tag}">${p.tagLabel}</span>
-      </div>
-      <p class="role">${p.role}</p>
-      <p class="blurb">${p.blurb}</p>
-      <div class="meta">
-        <span>${p.year} · ${p.duration}</span>
-        <span class="arrow">view case study →</span>
+    <a class="card" href="projects/${p.slug}.html" style="background-image:url('${p.cover}')">
+      <div class="card-cutin">
+        <div class="card-top">
+          <h3>${p.title}</h3>
+          <span class="tag ${p.tag}">${p.tagLabel}</span>
+        </div>
+        <p class="role">${p.role}</p>
+        <p class="blurb">${p.blurb}</p>
+        <div class="meta">
+          <span>${p.year}</span>
+          <span class="arrow">view case study →</span>
+        </div>
       </div>
     </a>
   `).join("");

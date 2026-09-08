@@ -35,7 +35,7 @@ const PROJECT_DETAILS = {
     stats: [
       { k: "Role", v: "Lead Game Designer" },
       { k: "Year", v: "2025-2026" },
-      { k: "Time", v: "6 Months" },
+      { k: "Highlight", v: "Working in a large team" },
       { k: "Genre", v: "Online Co-Op Roguelike" },
     ],
     links: { steam: "https://store.steampowered.com/app/4295700/Angels_and_Demons_vs_Aliens/", doc: "https://docs.google.com/document/d/1A2vueSKztTxOTupYGWVHjYpdcaivM617qqYtltGJQJU/edit?usp=sharing" },
@@ -59,7 +59,7 @@ const PROJECT_DETAILS = {
     stats: [
       { k: "Role", v: "Solo Developer and Designer" },
       { k: "Year", v: "2024" },
-      { k: "Time", v: "1 week" },
+      { k: "Highlight", v: "Creating within short deadlines" },
       { k: "Genre", v: "Arcade Shooter" },
     ],
     links: { play: "https://aydenl3.github.io/Little-Rook/"},
@@ -95,7 +95,7 @@ const PROJECT_DETAILS = {
     stats: [
       { k: "Role", v: "Lead Game Designer" },
       { k: "Year", v: "2023 - ONGOING" },
-      { k: "Time", v: "Ongoing" },
+      { k: "Highlight", v: "Creating within constraints" },
       { k: "Genre", v: "Social Deduction Party Experience" },
     ],
     links: { doc: "https://docs.google.com/document/d/1wHqtCKb-RhSUPZ-p7CtE7KQpOi41Yll5lTNyDZeBROE/edit?usp=sharing" },
@@ -125,7 +125,7 @@ const PROJECT_DETAILS = {
     stats: [
       { k: "Role", v: "Sole Game Designer" },
       { k: "Year", v: "2025" },
-      { k: "Highlight", v: "Unique Constraints" },
+      { k: "Highlight", v: "Creating within constraints" },
       { k: "Genre", v: "Trading Card Game" },
     ],
     links: { doc: "https://docs.google.com/document/d/1yeaXNfUgUVn9_8h86Dm2WRb967NHnibGFESCn8XCJFk/edit?usp=sharing" },
@@ -149,7 +149,7 @@ const PROJECT_DETAILS = {
     stats: [
       { k: "Role", v: "Lead Game Designer" },
       { k: "Year", v: "2024-ONGOING" },
-      { k: "Time", v: "Ongoing" },
+      { k: "Highlight", v: "Solving unique problems" },
       { k: "Genre", v: "Genre Here" },
     ],
     links: { doc: "https://docs.google.com/document/d/1dTL6Bud7Ep2blhB1NsBsfeUTb6INao-TC30wuW0DOaU/edit?usp=sharing" },
