@@ -11,7 +11,7 @@
 const PROJECTS = [
   {
     slug: "adva",
-    title: "Angels and Demons vs. Aliens!",
+    title: "Angels & Demons vs. Aliens!",
     tag: "capstone",
     tagLabel: "Co-Op Roguelike",
     role: "Lead Game Designer",
